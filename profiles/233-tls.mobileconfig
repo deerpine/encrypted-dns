@@ -33,9 +33,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the v.233py.com to Big Sur and iOS 14 based systems</string>
+	<string>Adds the 233py to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>v.233py.com over TLS</string>
+	<string>233py over TLS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
