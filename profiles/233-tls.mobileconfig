@@ -35,7 +35,7 @@
 	<key>PayloadDescription</key>
 	<string>Adds the v.233py.com to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>DNSPod over TLS</string>
+	<string>v.233py.com over TLS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
